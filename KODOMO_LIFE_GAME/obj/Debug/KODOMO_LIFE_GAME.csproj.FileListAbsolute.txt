@@ -1,0 +1,13 @@
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\bin\Debug\KODOMO_LIFE_GAME.exe.config
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\bin\Debug\KODOMO_LIFE_GAME.exe
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\bin\Debug\KODOMO_LIFE_GAME.pdb
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\bin\Debug\UserCtrl.dll
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\bin\Debug\UserCtrl.pdb
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\obj\Debug\KODOMO_LIFE_GAME.Form1.resources
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\obj\Debug\KODOMO_LIFE_GAME.MoneyInMyPocket.resources
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\obj\Debug\KODOMO_LIFE_GAME.Properties.Resources.resources
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\obj\Debug\KODOMO_LIFE_GAME.csproj.GenerateResource.cache
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\obj\Debug\KODOMO_LIFE_GAME.csproj.CoreCompileInputs.cache
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\obj\Debug\KODOMO_LIFE_GAME.csproj.CopyComplete
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\obj\Debug\KODOMO_LIFE_GAME.exe
+C:\Users\覚\source\repos\KODOMO_LIFE_GAME\KODOMO_LIFE_GAME\obj\Debug\KODOMO_LIFE_GAME.pdb
